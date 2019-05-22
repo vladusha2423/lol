@@ -182,4 +182,6 @@ def aver_prices(notebooks, specification):
         avers[spec] = sum(price_values) / len(price_values)
     return avers
 
+# check git
+
 
